@@ -13,3 +13,4 @@ Ze začátku roku jsem zkouśel různé projekty napŕ.: ovládání diod pomoc�
 S displejem mi pomohl Míra Pich a Dominik Bašek, s nimi jsem se snažil při hodinách pochopit zapojení displeje
 # Zdroje
 # Závěr
+sdf
